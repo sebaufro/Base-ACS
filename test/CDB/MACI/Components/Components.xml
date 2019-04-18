@@ -12,7 +12,7 @@
 		                     	Type="IDL:[pragma]/[nombre_modulo]/[nombre_idl]:1.0"
 		                     	Container="bilboContainer" ImplLang="cpp" />
 
-	<_ Name="[Componente_java]"     Code="[nombre_modulo].[nombre_helper]"	
+	<_ Name="[Componente_java]"     Code="[directorio].[nombre_helper]"	
                              		Type="IDL:[pragma]/[nombre_modulo]/[nombre_idl]:1.0"
                              		Container="frodoContainer" ImplLang="java" />
      
