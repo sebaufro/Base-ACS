@@ -72,18 +72,18 @@ xxxxx_LIBS      =
 #
 # Includes (.h) files (public only)
 # ---------------------------------
-INCLUDES        = [nombre].h
+INCLUDES        = [nombreClase].h
 
 #
 # Libraries (public and local)
 # ----------------------------
-LIBRARIES       = [nombre]
+LIBRARIES       = [nombreClase]
 LIBRARIES_L     =
 
 #
 # <brief description of lllll library>
-[nombre]_OBJECTS = [nombre]
-[nombre]_LIBS = [Nombre_idl]Stubs ACE TAO TAO_PortableServer TAO_CosProperty maciErrType baselogging ACSErrTypeCommon acscommonStubs acserrStubs acserr logging logging maci maciClient maciStubs loki ACSErrTypeCORBA acscomponent baci loki
+[nombreClase]_OBJECTS = [nombreClase]
+[nombreClase]_LIBS = [Nombre_idl]Stubs ACE TAO TAO_PortableServer TAO_CosProperty maciErrType baselogging ACSErrTypeCommon acscommonStubs acserrStubs acserr logging logging maci maciClient maciStubs loki ACSErrTypeCORBA acscomponent baci loki
 
 
 #
@@ -139,7 +139,7 @@ IDL_FILES = [Nombre_idl]
 TAO_IDLFLAGS =
 USER_IDL =
 
-[nombre]Stubs_LIBS = acscomponentStubs
+[nombreClase]Stubs_LIBS = acscomponentStubs
 
 #
 # Jarfiles and their directories

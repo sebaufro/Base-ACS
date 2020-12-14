@@ -141,8 +141,8 @@ USER_IDL =
 #
 # Jarfiles and their directories
 #
-JARFILES= [nombre] 
-[nombre]_DIRS= [Directorio]
+JARFILES= [nombreClase] 
+[nombreClase]_DIRS= [Directorio]
 jjj_EXTRAS=
 # For expressing dependencies between jarfiles (parallel builds)
 jjj_JLIBS= 

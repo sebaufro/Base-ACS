@@ -3,11 +3,11 @@
 
 #include <baci.idl>
 
-#pragma prefix "example"
+#pragma prefix "[example]"
 
-module [nombre_cualquiera]
+module [Nombre_modulo]
 {
-	interface [Nombe_idl] : ACS::ACSComponent
+	interface [Nombre_idl] : ACS::ACSComponent
 	{
 	
 	void metodo1();

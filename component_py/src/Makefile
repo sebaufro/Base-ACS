@@ -102,7 +102,7 @@ TCL_SCRIPTS_L   =
 PY_SCRIPTS         =
 PY_SCRIPTS_L       =
 
-PY_MODULES         = [nombre]
+PY_MODULES         = [nombreClase]
 PY_MODULES_L       =
 
 PY_PACKAGES        =
@@ -137,7 +137,7 @@ IDL_FILES = [Nombre_idl]
 TAO_IDLFLAGS =
 USER_IDL =
 
-[nombre]Stubs_LIBS = acscomponentStubs
+[nombreClase]Stubs_LIBS = acscomponentStubs
 #
 # Jarfiles and their directories
 #
