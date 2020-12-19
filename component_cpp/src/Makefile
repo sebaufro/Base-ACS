@@ -139,7 +139,7 @@ IDL_FILES = [Nombre_idl]
 TAO_IDLFLAGS =
 USER_IDL =
 
-[nombreClase]Stubs_LIBS = acscomponentStubs
+[Nombre_idl]Stubs_LIBS = acscomponentStubs
 
 #
 # Jarfiles and their directories
