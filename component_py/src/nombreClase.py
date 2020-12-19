@@ -17,8 +17,12 @@ class [nombreClase]([Nombre_modulo]__POA.[Nombre_idl], ACSComponent, ContainerSe
 		pass
 
 	def initialize(self):
-		#Acciones al iniciar
+		pass
+	def execute(self):
+		pass
 
 	def cleanUp(self):
-		#Aciones al liberar componente
+		pass
+	def aboutToAbort(self):
+		pass
 
